@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Monisha</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 All about me is at [My Website](https://monisha.me)
+- 🔭 All about me is at [my website](https://monisha.site)
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently working as a full stack developer at mediguru.com
 
-- 👨‍💻 All of my projects are available at [monisha.me](monisha.me)
+- 👨‍💻 Apart from work, I also work on some personal projects on my free time to enhance my skills. You can find them all in [here monisha.site](https://monisha.site/project)
 
 - 📫 How to reach me **sekarmonisha2@gmail.com, [LinkedIn](https://www.linkedin.com/in/monisha-sekar/)**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/12KHFBx5QZjap15mevm3HImT9iPlOab-G/view)
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/12KHFBx5QZjap15mevm3HImT9iPlOab-G/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
