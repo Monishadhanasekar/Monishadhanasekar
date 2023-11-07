@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working as a full stack developer at mediguru.com
 
-- 👨‍💻 Apart from my day to day work, I also work on some personal projects on my free time to enhance my skills. You can find them all in [here monisha.site](https://monisha.site/project)
+- 👨‍💻 Apart from my day to day work, I also work on some personal projects on my free time to enhance my skills. You can find them all in [here monisha.site](https://monisha.site)
 
 - 📫 How to reach me **sekarmonisha2@gmail.com, [LinkedIn](https://www.linkedin.com/in/monisha-sekar/)**
 
